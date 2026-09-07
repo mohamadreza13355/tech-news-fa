@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-06",
+    "last_updated": "2026-09-07",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 922
+    "total_articles": 930
   },
   "articles": [
     {
@@ -15635,6 +15635,141 @@
         "Cybersecurity",
         "AI safety",
         "مدل‌های هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "a8e8f9dc895a026b",
+      "date": "2026-09-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/an-alien-mind",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "هوش مصنوعی پیشرفته: فراخوان پیاخوکی برای مهار ذهن‌های بیگانه و همکاری بین‌المللی",
+      "title_en": "An Alien Mind",
+      "summary_fa": "جاکوب پیاخوکی، یکی از متخصصان برجسته هوش مصنوعی، نگرانی خود را نسبت به توسعه فزاینده توانایی‌های هوش مصنوعی و دشواری همسوسازی آن با ارزش‌های انسانی ابراز کرده است. او بر این باور است که هوش‌های مصنوعی قدرتمندتر می‌توانند به مثابه «ذهن‌های بیگانه» عمل کنند که درک و کنترل آن‌ها چالش‌برانگیز خواهد بود. به همین دلیل، پیاخوکی بر لزوم تقویت تدابیر ایمنی و هماهنگی‌های بین‌المللی برای مدیریت صحیح و ایمن این فناوری تاکید می‌کند.",
+      "tags": [
+        "Jakub Pachocki",
+        "AI Safety",
+        "AI Alignment",
+        "هوش مصنوعی پیشرفته",
+        "همکاری بین‌المللی"
+      ]
+    },
+    {
+      "id": "19672c4832d4c9bc",
+      "date": "2026-09-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "نگاهی از درون OpenAI: عوامل کدنویس چگونه موتور پژوهش هوش مصنوعی را شتاب می‌دهند؟",
+      "title_en": "Research acceleration: The view inside OpenAI",
+      "summary_fa": "در داخل شرکت OpenAI، عوامل کدنویس (coding agents) در حال دگرگون کردن روند پژوهش‌های هوش مصنوعی هستند. این عوامل با خودکارسازی و بهینه‌سازی فرآیندهای برنامه‌نویسی، سرعت انجام آزمایش‌ها و پیچیدگی وظایف را به میزان قابل توجهی افزایش می‌دهند. اطلاعات اولیه حاکی از نقش کلیدی این عوامل در شتاب بخشیدن به نوآوری و پیشبرد مرزهای دانش در حوزه هوش مصنوعی است.",
+      "tags": [
+        "OpenAI",
+        "پژوهش هوش مصنوعی",
+        "عوامل کدنویس",
+        "شتاب‌دهنده پژوهش"
+      ]
+    },
+    {
+      "id": "e23cb28ae8c9fce3",
+      "date": "2025-12-17",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-academy-for-news-organizations",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "آموزش هوش مصنوعی به رسانه‌ها: OpenAI آکادمی تخصصی راه‌اندازی کرد",
+      "title_en": "Introducing OpenAI Academy for News Organizations",
+      "summary_fa": "OpenAI با همکاری American Journalism Project و The Lenfest Institute، «آکادمی OpenAI برای سازمان‌های خبری» را راه‌اندازی کرده است. این مرکز آموزشی با هدف کمک به اتاق‌های خبر برای استفاده مؤثر و مسئولانه از هوش مصنوعی طراحی شده است. آکادمی به روزنامه‌نگاران، ویراستاران و ناشران، آموزش‌ها، موارد استفاده عملی و راهنمایی‌هایی ارائه می‌دهد تا هوش مصنوعی را به شکلی سازنده در گزارش‌نویسی و عملیات خود ادغام کنند.",
+      "tags": [
+        "OpenAI",
+        "Journalism",
+        "AI training",
+        "رسانه",
+        "هوش مصنوعی مسئولانه"
+      ]
+    },
+    {
+      "id": "d0b2cf7c48996a03",
+      "date": "2025-12-17",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/guides-and-resources/the-state-of-enterprise-ai-2025-report",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "هوش مصنوعی سازمانی: گام‌های شرکت‌ها از آزمایش تا بهره‌وری حقیقی",
+      "title_en": "The state of enterprise AI",
+      "summary_fa": "این گزارش نگاهی داده‌محور به روند پذیرش هوش مصنوعی در سازمان‌ها دارد. نشان می‌دهد که چگونه شرکت‌ها در حال گذر از مرحله آزمایشی به سمت کسب دستاوردهای واقعی در بهره‌وری و ایجاد قابلیت‌های جدید هستند.",
+      "tags": [
+        "Enterprise AI",
+        "هوش مصنوعی سازمانی",
+        "پذیرش فناوری",
+        "بهره‌وری",
+        "تحول دیجیتال"
+      ]
+    },
+    {
+      "id": "732bcc4ce70d2d74",
+      "date": "2025-12-17",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "ChatGPT رسماً میزبان اپلیکیشن‌های توسعه‌دهندگان شد",
+      "title_en": "Developers can now submit apps to ChatGPT",
+      "summary_fa": "OpenAI به توسعه‌دهندگان این امکان را داده است تا اپلیکیشن‌های خود را برای بررسی و انتشار به پلتفرم ChatGPT ارائه دهند. پس از تأیید، این برنامه‌ها در یک فهرست جدید درون خود ChatGPT قرار می‌گیرند تا کاربران به راحتی آن‌ها را پیدا کنند. هدف از این اقدام، فراهم آوردن ابزارها و SDKهای به‌روز برای توسعه‌دهندگانی است که می‌خواهند تجربه‌های نوآورانه و چت‌محور خلق کرده و قابلیت‌های دنیای واقعی را به ChatGPT بیاورند.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "Apps",
+        "AI platform",
+        "توسعه‌دهندگان"
+      ]
+    },
+    {
+      "id": "c8771e7bd03bc839",
+      "date": "2025-12-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/frontierscience",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "سنجش توانایی هوش مصنوعی در انجام پژوهش‌های علمی: ابزار جدید OpenAI",
+      "title_en": "Evaluating AI’s ability to perform scientific research tasks",
+      "summary_fa": "شرکت OpenAI ابزار جدیدی به نام FrontierScience را معرفی کرده است. این معیار برای سنجش قابلیت‌های استدلالی هوش مصنوعی در حوزه‌های کلیدی علوم مانند فیزیک، شیمی و زیست‌شناسی طراحی شده است. هدف از این اقدام، ارزیابی دقیق میزان پیشرفت هوش مصنوعی در انجام پژوهش‌های علمی واقعی است.",
+      "tags": [
+        "OpenAI",
+        "FrontierScience",
+        "هوش مصنوعی",
+        "پژوهش علمی",
+        "معیار سنجش"
+      ]
+    },
+    {
+      "id": "6a3a62ca594ac19c",
+      "date": "2026-09-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "category": "مالکیت فکری و هوش مصنوعی",
+      "title_fa": "اختلاف بر سر غرامت Anthropic؛ نویسندگان ناشران را به زیاده‌خواهی متهم کردند",
+      "title_en": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "summary_fa": "نویسندگان متعددی نسبت به نحوه تقسیم غرامت دریافت‌شده از شرکت هوش مصنوعی Anthropic اعتراض کرده‌اند. این غرامت که احتمالاً بابت استفاده غیرمجاز از آثار ادبی توسط مدل‌های هوش مصنوعی Anthropic پرداخت شده، اکنون محل نزاع است. نویسندگان ادعا می‌کنند که ناشران و آژانس‌های ادبی سهم نامتناسبی از این وجوه را برای خود برمی‌دارند و سهم ناچیزی به خالقان اصلی آثار می‌رسد.",
+      "tags": [
+        "Anthropic",
+        "AI",
+        "حقوق مولف",
+        "نویسندگان",
+        "ناشران"
+      ]
+    },
+    {
+      "id": "5325508b04b86470",
+      "date": "2026-09-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "تراویس کالانیک و اتمز: بازگشت احتمالی بنیان‌گذار اوبر به رقابت تاکسی‌های خودران",
+      "title_en": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "summary_fa": "تراویس کالانیک، بنیان‌گذار پرحاشیه اوبر، با شرکت جدید خود به نام «اتمز» ممکن است وارد کسب‌وکار تاکسی‌های خودران شود. او پیش‌تر اظهار داشته بود که اتمز به وی اجازه می‌دهد «کارهای ناتمام» خود را به سرانجام برساند. این خبر نشان‌دهنده بازگشت او به یکی از حوزه‌های اصلی مورد علاقه‌اش در دوران فعالیتش در اوبر است.",
+      "tags": [
+        "Travis Kalanick",
+        "Atoms",
+        "Uber",
+        "ربوتاکسی",
+        "خودروهای خودران"
       ]
     }
   ]
