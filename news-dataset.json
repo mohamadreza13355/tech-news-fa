@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-07",
+    "last_updated": "2026-09-08",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 930
+    "total_articles": 938
   },
   "articles": [
     {
@@ -15770,6 +15770,142 @@
         "Uber",
         "ربوتاکسی",
         "خودروهای خودران"
+      ]
+    },
+    {
+      "id": "e02ae19def6b6f7c",
+      "date": "2026-09-07",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "OpenAI و شرکا: تقویت روزنامه‌نگاری مستقل اوکراین با هوش مصنوعی",
+      "title_en": "Supporting independent journalism in Ukraine",
+      "summary_fa": "شرکت OpenAI با همکاری AIRPPU (انجمن مستقل ناشران رسانه‌های منطقه‌ای اوکراین) و WAN-IFRA (انجمن جهانی اخبار و ناشران)، برنامه‌ای با محوریت هوش مصنوعی را راه‌اندازی کرده است. این ابتکار با هدف حمایت از سازمان‌های خبری اوکراینی طراحی شده تا به آن‌ها در تقویت نوآوری، افزایش تاب‌آوری و حفظ روزنامه‌نگاری مستقل کمک کند. هدف نهایی این برنامه، پایداری و کیفیت رسانه‌های اوکراینی در مواجهه با چالش‌های کنونی است.",
+      "tags": [
+        "OpenAI",
+        "هوش مصنوعی",
+        "روزنامه‌نگاری",
+        "اوکراین",
+        "رسانه"
+      ]
+    },
+    {
+      "id": "e63ddad45fc635a4",
+      "date": "2025-12-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/accelerating-biological-research-in-the-wet-lab",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "هوش مصنوعی در خدمت زیست‌شناسی: چارچوب OpenAI برای سنجش شتاب‌دهی به پژوهش‌ها",
+      "title_en": "Measuring AI’s capability to accelerate biological research",
+      "summary_fa": "OpenAI چارچوب ارزیابی جدیدی را برای سنجش چگونگی تسریع تحقیقات زیستی در آزمایشگاه توسط هوش مصنوعی معرفی کرده است. این ابتکار که از مدل GPT-5 برای بهینه‌سازی پروتکل کلونینگ مولکولی بهره می‌برد، هم پتانسیل‌های امیدوارکننده و هم خطرات بالقوه آزمایش‌های مبتنی بر هوش مصنوعی را کاوش می‌کند. این چارچوب معیاری برای ارزیابی عملی قابلیت‌های هوش مصنوعی در حوزه زیست‌شناسی ارائه می‌دهد.",
+      "tags": [
+        "OpenAI",
+        "پژوهش زیستی",
+        "هوش مصنوعی",
+        "GPT-5",
+        "آزمایشگاه تر"
+      ]
+    },
+    {
+      "id": "4ee4e44c53add491",
+      "date": "2025-12-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/guides-and-resources/staying-ahead-in-the-age-of-ai",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "پیشتازی در عصر هوش مصنوعی: راهبردهای کلیدی برای آمادگی سازمانی",
+      "title_en": "Staying ahead in the age of AI",
+      "summary_fa": "در عصر تحول‌آفرین هوش مصنوعی، سازمان‌ها برای حفظ مزیت رقابتی و پیشتازی نیازمند آمادگی همه‌جانبه هستند. این گزارش نشان می‌دهد چگونه رهبران می‌توانند با تدوین استراتژی‌های روشن، سرمایه‌گذاری در آموزش و توسعه، ایجاد چارچوب‌های حکمرانی قوی و تسریع نوآوری، سازمان‌های خود را برای بهره‌برداری مؤثر از هوش مصنوعی آماده کنند.",
+      "tags": [
+        "هوش مصنوعی",
+        "پذیرش سازمانی",
+        "استراتژی AI",
+        "حکمرانی هوش مصنوعی",
+        "رهبری"
+      ]
+    },
+    {
+      "id": "b42f6fefb200c9c0",
+      "date": "2025-12-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/new-chatgpt-images-is-here",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "قابلیت تصاویر ChatGPT با مدل جدید: ویرایش دقیق‌تر و تولید ۴ برابر سریع‌تر",
+      "title_en": "The new ChatGPT Images is here",
+      "summary_fa": "نسخه جدید قابلیت تولید تصویر ChatGPT، که توسط مدل پرچم‌دار شرکت قدرت می‌گیرد، بهبودهای چشمگیری را به همراه دارد. این به‌روزرسانی شامل ویرایش‌های دقیق‌تر، جزئیات یکپارچه‌تر در تصاویر، و سرعت تولید تا چهار برابر بیشتر است. این مدل ارتقا یافته از امروز برای تمامی کاربران ChatGPT در دسترس قرار می‌گیرد و همچنین با نام GPT-Image-1.5 از طریق API قابل استفاده است.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "Image generation",
+        "GPT-Image-1.5",
+        "هوش مصنوعی مولد"
+      ]
+    },
+    {
+      "id": "f3eda620bd44336a",
+      "date": "2025-12-12",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/bny",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "BNY با OpenAI، هوش مصنوعی را برای «همه، همه‌جا» در سازمان پیاده‌سازی می‌کند",
+      "title_en": "BNY builds “AI for everyone, everywhere” with OpenAI",
+      "summary_fa": "بانک BNY با همکاری OpenAI در حال گسترش فراگیر هوش مصنوعی در سطح سازمان خود است. این بانک از پلتفرم اختصاصی خود، Eliza، برای این منظور استفاده می‌کند که به بیش از ۲۰,۰۰۰ کارمند اجازه می‌دهد عوامل هوش مصنوعی بسازند. هدف از این اقدام، افزایش کارایی عملیاتی و بهبود نتایج و خدمات ارائه‌شده به مشتریان است.",
+      "tags": [
+        "BNY",
+        "OpenAI",
+        "Eliza",
+        "هوش مصنوعی سازمانی",
+        "کارایی عملیاتی"
+      ]
+    },
+    {
+      "id": "b0923f0323a034bd",
+      "date": "2025-12-12",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/bbva-collaboration-expansion",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "BBVA و OpenAI در مسیر تحول بانکداری جهانی: هوش مصنوعی برای ۱۲۰ هزار کارمند",
+      "title_en": "BBVA and OpenAI collaborate to transform global banking",
+      "summary_fa": "بانک BBVA در یک برنامه تحول هوش مصنوعی چندساله، همکاری خود را با OpenAI گسترش می‌دهد. در این راستا، نسخه سازمانی ChatGPT (ChatGPT Enterprise) برای تمامی ۱۲۰ هزار کارمند این بانک عرضه خواهد شد. هدف این مشارکت، توسعه راه‌حل‌های هوش مصنوعی برای بهبود تعاملات مشتریان، بهینه‌سازی عملیات و ساخت یک تجربه بانکداری کاملاً مبتنی بر هوش مصنوعی است.",
+      "tags": [
+        "BBVA",
+        "OpenAI",
+        "ChatGPT Enterprise",
+        "بانکداری",
+        "هوش مصنوعی سازمانی"
+      ]
+    },
+    {
+      "id": "bbd44de733a8edb7",
+      "date": "2026-09-07",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "category": "مفاهیم و اصطلاحات هوش مصنوعی",
+      "title_fa": "واژه‌نامه هوش مصنوعی: با مهم‌ترین اصطلاحات جدید AI آشنا شوید",
+      "title_en": "Opaque recurrence, and other AI terms that you should probably know",
+      "summary_fa": "با گسترش روزافزون هوش مصنوعی، سیل عظیمی از واژگان تخصصی و اصطلاحات جدید وارد گفتمان عمومی شده‌اند. این مطلب یک واژه‌نامه جامع ارائه می‌دهد که تعاریف برخی از مهم‌ترین کلمات و عبارات مرتبط با هوش مصنوعی را گردآوری کرده است تا به درک بهتر این حوزه کمک کند.",
+      "tags": [
+        "AI",
+        "واژه‌نامه هوش مصنوعی",
+        "اصطلاحات",
+        "Opaque Recurrence",
+        "مفاهیم AI"
+      ]
+    },
+    {
+      "id": "77fe4c24eb6d7e47",
+      "date": "2026-09-07",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "category": "فناوری‌های انرژی پاک",
+      "title_fa": "مرور اخبار: از شکار هیدروژن زیرزمینی تا عوامل خودسر جدید در OpenAI",
+      "title_en": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "summary_fa": "تلاش‌های گسترده‌ای برای کشف ذخایر عظیم گاز هیدروژن در زیر زمین در جریان است. هدف از این کاوش‌ها، یافتن منابع جدیدی از سوخت کاملاً پاک و بدون کربن است که می‌تواند نقشی کلیدی در تامین انرژی آینده ایفا کند. این تحقیقات نویدبخش کشف مقادیر قابل توجهی از این منبع ارزشمند برای جایگزینی سوخت‌های فسیلی است.",
+      "tags": [
+        "هیدروژن",
+        "سوخت پاک",
+        "انرژی تجدیدپذیر",
+        "OpenAI",
+        "هوش مصنوعی"
       ]
     }
   ]
